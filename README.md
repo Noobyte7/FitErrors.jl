@@ -15,7 +15,7 @@ Depends only on `LinearAlgebra` and `Printf`.
 ## Install
 
 ```julia
-] dev /Users/noobyte7/Documents/code/julia/FitErrors
+] dev ./FitErrors
 ```
 
 Then `using FitErrors` from any project. To remove it again, `] rm FitErrors`.
